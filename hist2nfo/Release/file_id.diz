@@ -1,0 +1,5 @@
+convert 'history.xml' file of Download Master (russian edition) 
+[www.westbyte.com] to separated NFO files.
+
+Just place hist2nfo.com in some directory together with descript.ion 
+file and run hist2nfo.com (without any params).

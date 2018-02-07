@@ -1,0 +1,6 @@
+
+convert 'descript.ion' file of Download Master (russian edition) 
+[www.westbyte.com] to separated LOG files.
+
+Just place dscr2log.com in some directory together with descript.ion 
+file and run dscr2log.com (without any params).
